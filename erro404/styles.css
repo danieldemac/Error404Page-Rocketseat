@@ -122,12 +122,12 @@ a:hover {
   }
 }
 
-.nuvens img:nth-child(1) {
+.nuviun {
   animation: movimento-homi 10s ease-in-out infinite;
   animation-delay: 1s;
 }
 
-.nuvens img:nth-child(2) {
+.homi {
   animation: movimento-nuvem 10s ease-in-out infinite;
 
 }
