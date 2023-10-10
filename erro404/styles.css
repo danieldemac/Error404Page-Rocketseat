@@ -5,7 +5,6 @@
   box-sizing: border-box;
 }
 
-
 body {
   font-family: Arial, sans-serif;
   background-color: #000013;
@@ -15,6 +14,9 @@ body {
   margin: 50px;
   text-shadow: 0 30px 10px rgba(#000, .15);
 
+
+
+
 }
 
 .container {
@@ -23,13 +25,6 @@ body {
   padding: 20px;
 }
 
-.nuvens{
-  position: relative;
-  left: 505px;
-  bottom: 510px;
-  margin-top: 20%;
-  
-}
 td{
   color: #BF7BFB;
   font-family: 'Outfit', sans-serif;
@@ -49,18 +44,6 @@ h1 {
   position: absolute;
   padding-left: 100px;
 
-}
-h2 {
-  
-  color: #BF7BFB;
-  font-family: 'Outfit', sans-serif;
-  font-size:140px;
-  margin-left:60%;
-  text-align: center;
-  display:inline;
-
-  
- 
 }
 
 iframe {
@@ -148,21 +131,51 @@ a:hover {
   animation: movimento-nuvem 10s ease-in-out infinite;
 
 }
-.nuvens img:nth-child(3) {
+.nuvidoi {
   animation: movimento-nuvem 10s ease-in-out infinite;
   animation-delay: 0.5s;
 }
 
+
+
+section {
+
+  margin-left: 200px;
+  position: absolute;
+  float: left;
+  height: 1500px;
+  width: 1500px;
+}
 .homi{
+  margin-left: 200px;
+  margin-bottom: 500px;
   height: 150px;
   width: 150px;
+  position: fixed;
 
 }
 
+.nuviun {
+  position: fixed;
+  margin-top: 100px;
+}
+.nuvidoi{
+  position: fixed;
+  margin-left: 500px;
+  margin-top: 100px;
+}
+
+.nuvens{
+ 
+  margin-left: 500px;
+  
+  
+}
 
 table {
-  margin-left: 55%;
-  margin-bottom:80%;
+
+margin-left: 250px;
+position: fixed;
   
 }
 
@@ -171,10 +184,10 @@ table {
   right: 150px;
   font-family: 'MuseoModerno', cursive;
 }
-
-section div {
-
-  position: absolute;
-  float: left;
+.teste{
+  display: inline;
 }
+
+
+
 
