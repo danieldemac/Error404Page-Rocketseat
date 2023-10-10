@@ -27,9 +27,14 @@ body {
   position: relative;
   left: 505px;
   bottom: 510px;
+  margin-top: 20%;
   
 }
-
+td{
+  color: #BF7BFB;
+  font-family: 'Outfit', sans-serif;
+  font-size:140px;
+}
 
 h1 {
   font-size: 40px;
@@ -51,26 +56,13 @@ h2 {
   font-family: 'Outfit', sans-serif;
   font-size:140px;
   margin-left:60%;
-  position: relative;
   text-align: center;
- 
-}
-.numero {
-  position: relative;
-  bottom: 200px;
-  right: 150px;
-  font-family: 'MuseoModerno', cursive;
-}
-.planet {
-  position: relative;
-  bottom: 345px;
-  left: 850px;
-  border: transparent;
-  margin-left: 35px;
-  bottom: 380px;
+  display:inline;
 
   
+ 
 }
+
 iframe {
   width: 200px;
   height: 200px;
@@ -166,3 +158,23 @@ a:hover {
   width: 150px;
 
 }
+
+
+table {
+  margin-left: 55%;
+  margin-bottom:80%;
+  
+}
+
+.numero {
+  bottom: 200px;
+  right: 150px;
+  font-family: 'MuseoModerno', cursive;
+}
+
+section div {
+
+  position: absolute;
+  float: left;
+}
+
