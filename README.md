@@ -1,6 +1,8 @@
 # Error 404 Page - Rocketseat Programming School
 ![Alt Text](https://www.rocketseat.com.br/boracodar/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FWiwea2ytRim5096oCWRd&w=828&q=100)
-
+<p align="center">
+  <img width="500" height="301" src="images/erro_boy.png" alt="Partículas">
+</p>
 
 This is a simple HTML page designed for the "Challenge #27 - Error 404 Page" of Rocketseat Programming School. The objective of this challenge is to create a visually
 appealing and user-friendly 404 error page.
