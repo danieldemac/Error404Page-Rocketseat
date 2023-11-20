@@ -1,5 +1,4 @@
-# Error 404 Page - Rocketseat Programming School
-
+<h1 align="center">Error 404 Page - Rocketseat Programming School</h1>
 <p align="center">
   <img width="500" height="301" src="images/erro_boy.png" alt="Partículas">
 </p>
