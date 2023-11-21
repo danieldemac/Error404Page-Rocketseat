@@ -27,6 +27,10 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory: `cd Error404Page-Rocketseat`
 3. Open `index.html` in your preferred web browser.
 
+## This project is on Netlify!
+
+Use this link: https://erro404daniel.netlify.app/
+
 ## Customization
 
 To customize the error page for your specific needs, you can modify the content and styling in the `index.html` and `styles.css` files, respectively. Feel free to add your own personal touch and make it unique.
