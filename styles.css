@@ -188,5 +188,20 @@ position: fixed;
 }
 
 
+@media (max-width: 768px) {
+    .aviso {
+        width: 90%; /* Ajuste a largura para telas menores */
+        margin: 20% auto; /* Ajuste a margem para telas menores */
+    }
+}
+
+
+@media (max-width: 768px) {
+    .button-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+
 
 
